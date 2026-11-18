@@ -1,0 +1,6 @@
+{
+  "name": "Qalam & Paper — Stationery & School Supplies",
+  "description": "Modern Pakistani stationery and school supplies e-commerce store with 10 categories, LocalStorage persistence, Cash on Delivery checkout, WhatsApp ordering, and an interactive product assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
